@@ -1,6 +1,6 @@
 <p align="center"><img src="docs/design/appicon.png" width="120" alt="icon"></p>
 <h1 align="center">Heritage Wander (世遗漫游)</h1>
-<p align="center">[简体中文](README.md) · **English** · [日本語](README.ja.md) · [한국어](README.ko.md)</p>
+<p align="center"><a href="README.md">简体中文</a> · <b>English</b> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a></p>
 <p align="center">A travel-destination app for iOS built on the UNESCO World Heritage List: a world heatmap, country maps, a destination wheel, on-device AI suggestions and trip planning.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/platform-iOS%2016%2B-blue" alt="platform">

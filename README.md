@@ -1,6 +1,6 @@
 <p align="center"><img src="docs/design/appicon.png" width="120" alt="icon"></p>
 <h1 align="center">世遗漫游</h1>
-<p align="center">**简体中文** · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)</p>
+<p align="center"><b>简体中文</b> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a></p>
 <p align="center">基于 UNESCO 世界遗产名录的旅行目的地 App：世界热力图、国家地图、目的地转盘、设备端 AI 推荐与行程规划。</p>
 <p align="center">
 <img src="https://img.shields.io/badge/platform-iOS%2016%2B-blue" alt="platform">

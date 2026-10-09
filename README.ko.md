@@ -1,6 +1,6 @@
 <p align="center"><img src="docs/design/appicon.png" width="120" alt="icon"></p>
 <h1 align="center">세계유산 산책 (世遗漫游)</h1>
-<p align="center">[简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · **한국어**</p>
+<p align="center"><a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <b>한국어</b></p>
 <p align="center">유네스코 세계유산 목록을 바탕으로 만든 여행지 추천 iOS 앱입니다. 세계 히트맵, 국가별 지도, 목적지 룰렛, 기기에서 동작하는 AI 추천, 여행 일정 계획을 제공합니다.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/platform-iOS%2016%2B-blue" alt="platform">
